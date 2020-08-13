@@ -1,7 +1,7 @@
 
 
 
-# BMI Calculator 💪
+# BMI Calculator
 
 
 
